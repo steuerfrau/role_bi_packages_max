@@ -2,5 +2,6 @@ role_bi_packages_max_osd:
   packages:
     - epel-release
     - haveged
+    - htop
     - logwatch
     - fail2ban
