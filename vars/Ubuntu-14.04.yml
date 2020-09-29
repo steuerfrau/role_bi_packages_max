@@ -1,0 +1,5 @@
+role_bi_packages_max_packages:
+    - haveged
+    - htop
+    - logwatch
+    - fail2ban
